@@ -23,7 +23,33 @@
   
 第5章 寄存器
   引脚顺序逆时针
+  stm32编程实际就是通过程序控制引脚输出高低电平
+
+第6章 新建工程
+  startup_stm32f10x_hd.s
+  stm32f10x.h
+  main.c
+
+第7章 使用寄存器点亮
+  清空端口位
+  配置端口位
+  配置时钟，配置外设功能
+
+第8章 认识hal库
+  核内寄存器手册《cortex_M3_Technical Reference Manual》，《cortex-m3内核编程手册》
+
+第9章 cubemx
+
+第10章 模板
+
+第11章 gpio固件库
+  __HAL_RCC_GPIOB_CLK_ENABLE()
+
+第12章 按键检测
+
+第13章 启动文件
   
+
 
 
 
